@@ -11,3 +11,11 @@ Fonte: [Can AI Fix Climate Change?](https://datalore.jetbrains.com/report/static
 "Mudanças climáticas são um tema frustrante! Os políticos parecem não estar comprometidos em fazer algo significativo, e a maioria das pessoas, como eu e você, se sente impotente e não sabe realmente o que fazer para ajudar a combater a mudança climática que está acontecendo e <strong><mark style="background-color:#85BB65;color:white;border-radius:4px;opacity:1.0">provavelmente se acelerando</mark></strong>.
 Parece que estamos vivendo em um mundo onde todo verão é mais quente que o anterior. Como millennial, às vezes me pergunto se deveria trazer crianças para este mundo e deixá-las sofrer com o <strong><mark style="background-color:#85BB65;color:white;border-radius:4px;opacity:1.0">Apocalipse climático nas próximas décadas</mark></strong>."   - Thu Vu ( Tradução livre )
 
+## Objetivo
+
+
+## Progresso
+
+
+
+
