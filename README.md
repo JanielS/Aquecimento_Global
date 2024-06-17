@@ -14,7 +14,9 @@ Parece que estamos vivendo em um mundo onde todo verão é mais quente que o ant
 ## Objetivo
 Analisar a emissão dos principais gases causadores do efeito estufa no mundo e a contribuição do Brasil nesse cenário 
 
-## Progresso
+## Planejamento
+![image](https://github.com/JanielS/Aquecimento_Global/blob/main/Imagens/Diagram.png)<br>
+Fonte: Autor
 
 
 ## Referências dos Dados 
