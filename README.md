@@ -17,5 +17,9 @@ Parece que estamos vivendo em um mundo onde todo verão é mais quente que o ant
 ## Progresso
 
 
-
+## Referências dos Dados 
+Temperatura [Global](https://climate.metoffice.cloud/temperature.html#datasets)
+Dióxido de Carbono na [Atmosfera](https://climate.nasa.gov/vital-signs/carbon-dioxide/?intent=121)
+Emissão Global anual de [C02, C04 e N02](https://zenodo.org/records/7636699#.ZFCy4exBweZ)
+Emissão de Gases no [Brasil](https://seeg.eco.br/)
 
