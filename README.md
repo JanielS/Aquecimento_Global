@@ -1,6 +1,6 @@
 <h1 align="center">Aquecimento Global</h1>
 
-Acompanhe o desenvlvimento do [código](https://github.com/JanielS/Aquecimento_Global/blob/main/projeto.ipynb)
+Acompanhe o desenvolvimento do [código](https://github.com/JanielS/Aquecimento_Global/blob/main/projeto.ipynb). Aceito contribuições💚.
  
 ![image](https://github.com/JanielS/Aquecimento_Global/blob/main/Imagens/Arvore.png)<br>
 <br>
