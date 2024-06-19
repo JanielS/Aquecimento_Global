@@ -3,7 +3,6 @@
 Acompanhe o desenvlvimento do [código](https://github.com/JanielS/Aquecimento_Global/blob/main/projeto.ipynb)
  
 ![image](https://github.com/JanielS/Aquecimento_Global/blob/main/Imagens/Arvore.png)<br>
-Fonte: [Can AI Fix Climate Change?](https://datalore.jetbrains.com/report/static/39nuxPZsmiuCJJHSNCaD4t/Jraapd4EZO5hBmHdCfWdxz?utm_campaign=thuvu_datalore_climate&utm_medium=cpc&utm_source=youtube.com)
 <br>
 <br>
 <br>
@@ -12,12 +11,10 @@ Fonte: [Can AI Fix Climate Change?](https://datalore.jetbrains.com/report/static
 Parece que estamos vivendo em um mundo onde todo verão é mais quente que o anterior. Como millennial, às vezes me pergunto se deveria trazer crianças para este mundo e deixá-las sofrer com o <strong><mark style="background-color:#85BB65;color:white;border-radius:4px;opacity:1.0">Apocalipse climático nas próximas décadas</mark></strong>."   - Thu Vu ( Tradução livre )
 
 
-
 ## Objetivo
 Analisar a emissão dos principais gases causadores do efeito estufa no mundo e a contribuição do Brasil nesse cenário. Destacando as séries históricas e as principais fontes contribuintes.
 ## Planejamento
 ![image](https://github.com/JanielS/Aquecimento_Global/blob/main/Imagens/Diagram.png)<br>
-Fonte: Autor
 
 ## Requerimentos 
 1. A linguagem dinâmica escolhida foi Python, para IDE eu optei pelo jupyter lab.
