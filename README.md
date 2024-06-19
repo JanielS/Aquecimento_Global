@@ -1,5 +1,6 @@
 <h1 align="center">Aquecimento Global</h1>
 
+Acompanhe o desenvlvimento do [código](https://github.com/JanielS/Aquecimento_Global/blob/main/projeto.ipynb)
  
 ![image](https://github.com/JanielS/Aquecimento_Global/blob/main/Imagens/Arvore.png)<br>
 Fonte: [Can AI Fix Climate Change?](https://datalore.jetbrains.com/report/static/39nuxPZsmiuCJJHSNCaD4t/Jraapd4EZO5hBmHdCfWdxz?utm_campaign=thuvu_datalore_climate&utm_medium=cpc&utm_source=youtube.com)
