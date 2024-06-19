@@ -20,9 +20,9 @@ Fonte: Autor
 
 
 ## Referências dos Dados 
-Temperatura [Global](https://climate.metoffice.cloud/temperature.html#datasets)<br>
-Temperatura global [Nasa](https://climate.nasa.gov/vital-signs/global-temperature/?intent=121)<br>
-Dióxido de Carbono na [Atmosfera](https://climate.nasa.gov/vital-signs/carbon-dioxide/?intent=121)<br>
-Emissão Global anual de [C02, C04 e N02](https://zenodo.org/records/7636699#.ZFCy4exBweZ)<br>
 Emissão de Gases no [Brasil](https://seeg.eco.br/)
+Temperatura [global](https://climate.nasa.gov/vital-signs/global-temperature/?intent=121)<br>
+Dióxido de Carbono na [Atmosfera]([https://climate.nasa.gov/vital-signs/carbon-dioxide/?intent=121](https://climate.nasa.gov/vital-signs/carbon-dioxide/?intent=121))<br>
+Metano na [Atmosfera](https://zenodo.org/records/7636699#.ZFCy4exBweZ)<br>
+
 
