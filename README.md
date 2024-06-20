@@ -7,9 +7,11 @@ Acompanhe o desenvolvimento do [código](https://github.com/JanielS/Aquecimento_
 <br>
 <br>
 ## Contexto
-"Mudanças climáticas são um tema frustrante! Os políticos parecem não estar comprometidos em fazer algo significativo, e a maioria das pessoas, como eu e você, se sente impotente e não sabe realmente o que fazer para ajudar a combater a mudança climática que está acontecendo e <strong><mark style="background-color:#85BB65;color:white;border-radius:4px;opacity:1.0">provavelmente se acelerando</mark></strong>.
-Parece que estamos vivendo em um mundo onde todo verão é mais quente que o anterior. Como millennial, às vezes me pergunto se deveria trazer crianças para este mundo e deixá-las sofrer com o <strong><mark style="background-color:#85BB65;color:white;border-radius:4px;opacity:1.0">Apocalipse climático nas próximas décadas</mark></strong>."   - Thu Vu ( Tradução livre )
+Mudanças climáticas são um tema desafiador e urgente. A falta de compromisso significativo por parte dos políticos e o sentimento de impotência que muitos de nós, cidadãos comuns, enfrentamos ao tentar combater essa crise global são alarmantes. Vivemos em um mundo onde cada verão parece ser mais quente que o anterior. Como centennial, muitas vezes me questiono se estamos destinados a enfrentar um futuro onde as mudanças climáticas moldem drasticamente nossa vida, como a pandemia de COVID-19 mudou a nossa realidade em poucos meses.
 
+De acordo com o relatório do [Painel Intergovermental sobre Mudanças Climáticas (IPCC)](https://www.ipcc.ch/report/sixth-assessment-report-cycle/), a temperatura global pode aumentar em 1,5°C já na primeira década de 2030, tornando muito difícil controlar um aumento de 2°C até o final do século XXI. Esses aumentos aparentemente pequenos podem desencadear secas severas, intensificar incêndios florestais e até mesmo comprometer a produção de alimentos, desestabilizando nações inteiras.
+
+Apesar disso, mantenho o otimismo ao considerar o potencial revolucionário da Inteligência Artificial na abordagem e combate ao aquecimento global. Estou iniciando uma jornada para compreender profundamente, através da análise de dados, como as tecnologias exponenciais podem tanto auxiliar quanto desafiar nossos esforços para garantir um futuro sustentável.
 
 ## Objetivo
 Analisar a emissão dos principais gases causadores do efeito estufa no mundo e a contribuição do Brasil nesse cenário. Destacando as séries históricas e as principais fontes contribuintes.
