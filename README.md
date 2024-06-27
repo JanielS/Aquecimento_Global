@@ -26,7 +26,7 @@ Analisar a emissão dos principais gases causadores do efeito estufa no mundo e 
 ## Referências dos Dados até o momento
 Emissão de Gases no [Brasil](https://seeg.eco.br/)<br>
 Temperatura [global](https://climate.nasa.gov/vital-signs/global-temperature/?intent=121)<br>
-Dióxido de Carbono na [Atmosfera](https://climate.nasa.gov/vital-signs/methane/?intent=121)<br>
-Metano na [Atmosfera](https://zenodo.org/records/7636699#.ZFCy4exBweZ)<br>
+Gases do efeito estufa na [Atmosfera](https://climate.metoffice.cloud/greenhouse_gases.html#datasets)<br>
+
 
 
