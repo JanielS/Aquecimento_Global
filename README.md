@@ -1,8 +1,6 @@
 <h1 align="center">Mudanças Climáticas</h1>
-
-Acompanhe o desenvolvimento do [código](https://github.com/JanielS/Aquecimento_Global/blob/main/projeto.ipynb). Aceito contribuições💚.
  
-![image](https://github.com/JanielS/Aquecimento_Global/blob/main/Imagens/Arvore.png)<br>
+![image](https://github.com/JanielS/Climate_Change/blob/main/Imagens/clima.png)<br>
 <br>
 <br>
 <br>
