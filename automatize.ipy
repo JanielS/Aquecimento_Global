@@ -33,3 +33,5 @@ for div in soup.find_all('div', class_='plotly-graph-div'):
 # Salvar o HTML modificado
 with open('notebook_export_responsive.html', 'w', encoding='utf-8') as file:
     file.write(str(soup))
+
+print('Alterações realizadas!')
