@@ -1,8 +1,6 @@
 <h1 align="center">Mudanças Climáticas</h1>
-
-Acompanhe o desenvolvimento do [código](https://github.com/JanielS/Aquecimento_Global/blob/main/projeto.ipynb). Aceito contribuições💚.
  
-![image](https://github.com/JanielS/Aquecimento_Global/blob/main/Imagens/Arvore.png)<br>
+![image](https://github.com/JanielS/Climate_Change/blob/main/Imagens/clima.png)<br>
 <br>
 <br>
 <br>
@@ -23,10 +21,7 @@ Analisar a emissão dos principais gases causadores do efeito estufa no mundo e 
 2. O banco de dados usado será o MySQL
 3. O desenvolvimento dos gráficos será através do próprio python, Tablau ou Power BI ( Será decido com base no melhor resultado ) 
 
-## Referências dos Dados até o momento
-Emissão de Gases no [Brasil](https://seeg.eco.br/)<br>
-Temperatura [global](https://climate.nasa.gov/vital-signs/global-temperature/?intent=121)<br>
-Gases do efeito estufa na [Atmosfera](https://climate.metoffice.cloud/greenhouse_gases.html#datasets)<br>
+
 
 
 
