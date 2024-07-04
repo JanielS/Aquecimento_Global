@@ -21,10 +21,7 @@ Analisar a emissão dos principais gases causadores do efeito estufa no mundo e 
 2. O banco de dados usado será o MySQL
 3. O desenvolvimento dos gráficos será através do próprio python, Tablau ou Power BI ( Será decido com base no melhor resultado ) 
 
-## Referências dos Dados até o momento
-Emissão de Gases no [Brasil](https://seeg.eco.br/)<br>
-Temperatura [global](https://climate.nasa.gov/vital-signs/global-temperature/?intent=121)<br>
-Gases do efeito estufa na [Atmosfera](https://climate.metoffice.cloud/greenhouse_gases.html#datasets)<br>
+
 
 
 
