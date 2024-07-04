@@ -1,4 +1,4 @@
-<h1 align="center">Aquecimento Global</h1>
+<h1 align="center">Mudanças Climáticas</h1>
 
 Acompanhe o desenvolvimento do [código](https://github.com/JanielS/Aquecimento_Global/blob/main/projeto.ipynb). Aceito contribuições💚.
  
